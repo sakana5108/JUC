@@ -1,5 +1,7 @@
 package chapter1;
 
+import java.util.HashSet;
+
 /**
  * @description: 以Thread/Runnable子类方式创建线程
  * @author: sakana
